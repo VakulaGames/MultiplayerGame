@@ -1,0 +1,11 @@
+.vs/
+Library/
+Logs/
+obj/
+UserSettings/
+Builds/
+Recordings/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+MultiplayerGame.sln
